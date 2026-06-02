@@ -2,8 +2,8 @@
 
 
 
-/Spindle Arel 9kw 6000rpm atc ,
-/Axis motor 12nm step motor with enconder,
-/Max proccessing area 750x1000x750 mm,
-/Body cast ductile iron GGG50 or GGG40 with chrome %1
+Spindle Arel 9kw 6000rpm atc ,<br>
+Axis motor 12nm step motor with enconder,<br>
+Max proccessing area 750x1000x750 mm,<br>
+Body cast ductile iron GGG50 or GGG40 with chrome %1<br>
 
